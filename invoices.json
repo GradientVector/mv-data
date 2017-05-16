@@ -12,7 +12,14 @@
 				"address": "asdfasdf"
 			},
 			"currency": "$",
-			"services": []
+			"services": [
+				{
+					"amount": "12"
+				},
+				{
+					"amount": "80"
+				}
+			]
 		},
 		{
 			"id": "2",
